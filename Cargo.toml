@@ -1,6 +1,6 @@
 [package]
 name = "nihonshufyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Sake guide with rice varieties, breweries, and tasting notes — async API client for nihonshufyi.com."
